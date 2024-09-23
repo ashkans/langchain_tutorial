@@ -1,0 +1,400 @@
+[
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "add_routes",
+        "importPath": "langserve",
+        "description": "langserve",
+        "isExtraImport": true,
+        "detail": "langserve",
+        "documentation": {}
+    },
+    {
+        "label": "add_routes",
+        "importPath": "langserve",
+        "description": "langserve",
+        "isExtraImport": true,
+        "detail": "langserve",
+        "documentation": {}
+    },
+    {
+        "label": "add_routes",
+        "importPath": "langserve",
+        "description": "langserve",
+        "isExtraImport": true,
+        "detail": "langserve",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "RunnableWithMessageHistory",
+        "importPath": "langchain_core.runnables.history",
+        "description": "langchain_core.runnables.history",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables.history",
+        "documentation": {}
+    },
+    {
+        "label": "BaseChatMessageHistory",
+        "importPath": "langchain_core.chat_history",
+        "description": "langchain_core.chat_history",
+        "isExtraImport": true,
+        "detail": "langchain_core.chat_history",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryChatMessageHistory",
+        "importPath": "langchain_core.chat_history",
+        "description": "langchain_core.chat_history",
+        "isExtraImport": true,
+        "detail": "langchain_core.chat_history",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "RunnablePassthrough",
+        "importPath": "langchain_core.runnables",
+        "description": "langchain_core.runnables",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "importPath": "prompt",
+        "description": "prompt",
+        "isExtraImport": true,
+        "detail": "prompt",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "importPath": "vectore_store",
+        "description": "vectore_store",
+        "isExtraImport": true,
+        "detail": "vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_chroma",
+        "description": "langchain_chroma",
+        "isExtraImport": true,
+        "detail": "langchain_chroma",
+        "documentation": {}
+    },
+    {
+        "label": "InputChat",
+        "kind": 6,
+        "importPath": "nbs.build_a_chatbot.server",
+        "description": "nbs.build_a_chatbot.server",
+        "peekOfCode": "class InputChat(BaseModel):\n    \"\"\"Input for the chat endpoint.\"\"\"\n    # The field extra defines a chat widget.\n    # As of 2024-02-05, this chat widget is not fully supported.\n    # It's included in documentation to show how it should be specified, but\n    # will not work until the widget is fully supported for history persistence\n    # on the backend.\n    human_input: str = Field(\n        ...,\n        description=\"The human input to the chat system.\",",
+        "detail": "nbs.build_a_chatbot.server",
+        "documentation": {}
+    },
+    {
+        "label": "get_session_history",
+        "kind": 2,
+        "importPath": "nbs.build_a_chatbot.server",
+        "description": "nbs.build_a_chatbot.server",
+        "peekOfCode": "def get_session_history(session_id: str) -> BaseChatMessageHistory:\n    if session_id not in store:\n        store[session_id] = InMemoryChatMessageHistory()\n    return store[session_id]\napp = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)\nprompt = ChatPromptTemplate.from_messages([",
+        "detail": "nbs.build_a_chatbot.server",
+        "documentation": {}
+    },
+    {
+        "label": "store",
+        "kind": 5,
+        "importPath": "nbs.build_a_chatbot.server",
+        "description": "nbs.build_a_chatbot.server",
+        "peekOfCode": "store = {}\ndef get_session_history(session_id: str) -> BaseChatMessageHistory:\n    if session_id not in store:\n        store[session_id] = InMemoryChatMessageHistory()\n    return store[session_id]\napp = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)",
+        "detail": "nbs.build_a_chatbot.server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "nbs.build_a_chatbot.server",
+        "description": "nbs.build_a_chatbot.server",
+        "peekOfCode": "app = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)\nprompt = ChatPromptTemplate.from_messages([\n    (\n        \"system\",\n        \"You are a helpful assistant. Answer all questions to the best of your ability in {language}.\",\n    ),",
+        "detail": "nbs.build_a_chatbot.server",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "nbs.build_a_chatbot.server",
+        "description": "nbs.build_a_chatbot.server",
+        "peekOfCode": "prompt = ChatPromptTemplate.from_messages([\n    (\n        \"system\",\n        \"You are a helpful assistant. Answer all questions to the best of your ability in {language}.\",\n    ),\n    MessagesPlaceholder(variable_name=\"history\"),\n    (\n        \"human\",\n        \"{human_input}\",\n    ),",
+        "detail": "nbs.build_a_chatbot.server",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "nbs.build_a_chatbot.server",
+        "description": "nbs.build_a_chatbot.server",
+        "peekOfCode": "chain = prompt | ChatOpenAI()\nclass InputChat(BaseModel):\n    \"\"\"Input for the chat endpoint.\"\"\"\n    # The field extra defines a chat widget.\n    # As of 2024-02-05, this chat widget is not fully supported.\n    # It's included in documentation to show how it should be specified, but\n    # will not work until the widget is fully supported for history persistence\n    # on the backend.\n    human_input: str = Field(\n        ...,",
+        "detail": "nbs.build_a_chatbot.server",
+        "documentation": {}
+    },
+    {
+        "label": "chain_with_history",
+        "kind": 5,
+        "importPath": "nbs.build_a_chatbot.server",
+        "description": "nbs.build_a_chatbot.server",
+        "peekOfCode": "chain_with_history = RunnableWithMessageHistory(\n    chain,\n    get_session_history,\n    input_messages_key=\"human_input\",\n    history_messages_key=\"history\").with_types(input_type=InputChat)\nadd_routes(\n    app,\n    chain_with_history,\n    path=\"/chain\",\n)",
+        "detail": "nbs.build_a_chatbot.server",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_TEMPLATE",
+        "kind": 5,
+        "importPath": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "description": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "peekOfCode": "SYSTEM_TEMPLATE = \"Translate the following into {language}:\"\nprompt_template = ChatPromptTemplate.from_messages([('system',\n                                                     SYSTEM_TEMPLATE),\n                                                    ('user', '{text}')])\n# 2. Create model\nmodel = ChatOpenAI()\n# 3. Create parser\nparser = StrOutputParser()\n# 4. Create chain\nchain = prompt_template | model | parser",
+        "detail": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "documentation": {}
+    },
+    {
+        "label": "prompt_template",
+        "kind": 5,
+        "importPath": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "description": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "peekOfCode": "prompt_template = ChatPromptTemplate.from_messages([('system',\n                                                     SYSTEM_TEMPLATE),\n                                                    ('user', '{text}')])\n# 2. Create model\nmodel = ChatOpenAI()\n# 3. Create parser\nparser = StrOutputParser()\n# 4. Create chain\nchain = prompt_template | model | parser\n# 4. App definition",
+        "detail": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "description": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "peekOfCode": "model = ChatOpenAI()\n# 3. Create parser\nparser = StrOutputParser()\n# 4. Create chain\nchain = prompt_template | model | parser\n# 4. App definition\napp = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",",
+        "detail": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "description": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "peekOfCode": "parser = StrOutputParser()\n# 4. Create chain\nchain = prompt_template | model | parser\n# 4. App definition\napp = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)\n# 5. Adding chain route",
+        "detail": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "description": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "peekOfCode": "chain = prompt_template | model | parser\n# 4. App definition\napp = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)\n# 5. Adding chain route\nadd_routes(\n    app,",
+        "detail": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "description": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "peekOfCode": "app = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)\n# 5. Adding chain route\nadd_routes(\n    app,\n    chain,\n    path=\"/chain\",",
+        "detail": "nbs.build_a_simple_llm_application_with_lcel.server",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.prompt",
+        "description": "nbs.vector_stores_and_retrivers.prompt",
+        "peekOfCode": "message = \"\"\"\nAnswer this question using the provided context only. If there is not enough information say I dont know, but in a more polite way.\n{question}\nContext:\n{context}\n\"\"\"\nprompt = ChatPromptTemplate.from_messages([(\"human\", message)])",
+        "detail": "nbs.vector_stores_and_retrivers.prompt",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.prompt",
+        "description": "nbs.vector_stores_and_retrivers.prompt",
+        "peekOfCode": "prompt = ChatPromptTemplate.from_messages([(\"human\", message)])",
+        "detail": "nbs.vector_stores_and_retrivers.prompt",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.server",
+        "description": "nbs.vector_stores_and_retrivers.server",
+        "peekOfCode": "model = ChatOpenAI()\nrag_chain = {\n    \"context\": retriever,\n    \"question\": RunnablePassthrough()\n} | prompt | model\n# 4. App definition\napp = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",",
+        "detail": "nbs.vector_stores_and_retrivers.server",
+        "documentation": {}
+    },
+    {
+        "label": "rag_chain",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.server",
+        "description": "nbs.vector_stores_and_retrivers.server",
+        "peekOfCode": "rag_chain = {\n    \"context\": retriever,\n    \"question\": RunnablePassthrough()\n} | prompt | model\n# 4. App definition\napp = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)",
+        "detail": "nbs.vector_stores_and_retrivers.server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.server",
+        "description": "nbs.vector_stores_and_retrivers.server",
+        "peekOfCode": "app = FastAPI(\n    title=\"LangChain Server\",\n    version=\"1.0\",\n    description=\"A simple API server using LangChain's Runnable interfaces\",\n)\n# 5. Adding chain route\nadd_routes(\n    app,\n    rag_chain,\n    path=\"/chain\",",
+        "detail": "nbs.vector_stores_and_retrivers.server",
+        "documentation": {}
+    },
+    {
+        "label": "documents",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.vectore_store",
+        "description": "nbs.vector_stores_and_retrivers.vectore_store",
+        "peekOfCode": "documents = [\n    Document(\n        page_content=\n        \"Dogs are great companions, known for their loyalty and friendliness.\",\n        metadata={\"source\": \"mammal-pets-doc\"},\n    ),\n    Document(\n        page_content=\n        \"Cats are independent pets that often enjoy their own space.\",\n        metadata={\"source\": \"mammal-pets-doc\"},",
+        "detail": "nbs.vector_stores_and_retrivers.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "vectorstore",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.vectore_store",
+        "description": "nbs.vector_stores_and_retrivers.vectore_store",
+        "peekOfCode": "vectorstore = Chroma.from_documents(\n    documents,\n    embedding=OpenAIEmbeddings(),\n)\nretriever = vectorstore.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 1},\n)",
+        "detail": "nbs.vector_stores_and_retrivers.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "nbs.vector_stores_and_retrivers.vectore_store",
+        "description": "nbs.vector_stores_and_retrivers.vectore_store",
+        "peekOfCode": "retriever = vectorstore.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 1},\n)",
+        "detail": "nbs.vector_stores_and_retrivers.vectore_store",
+        "documentation": {}
+    }
+]
