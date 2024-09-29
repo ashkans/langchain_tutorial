@@ -42,8 +42,13 @@ These tutorials explore how to extend your LLM's capabilities by connecting it w
 3.1 [ ] [**Build a Retrieval-Augmented Generation (RAG) Application**](<https://python.langchain.com/docs/tutorials/#:~:text=Build%20a%20Retrieval%20Augmented%20Generation%20(RAG)%20Application>)
 
 - In this tutorial, you'll learn how to build a **Retrieval-Augmented Generation (RAG)** application that integrates external data (e.g., databases, documents, APIs) into your LLM's responses. This approach significantly improves the relevance and accuracy of generated content, making it ideal for real-world applications like Q&A systems, document retrieval, and personalized assistants.
+- Here is the video series [RAG from scratch](https://www.youtube.com/watch?v=bjb_EMsTDKI&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&index=2) from langchain.
 
 More tutorials will be added as the series progresses, covering advanced topics like real-time data integration, custom agent designs, and more.
+
+## Potential follow up learnings:
+
+- Embeding methods - the options and how they works.
 
 ## Getting Started
 
